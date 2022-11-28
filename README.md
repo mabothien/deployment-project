@@ -34,7 +34,7 @@ Link Front End:
 
 #### S3
 
-![S3](https://github.com/mabothien/store-backend-2/blob/main/docs/images/S3.png?raw=true)
+![S3](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/S3.PNG?raw=true)
 #### CircleCI
 
 CircleCI Pipeline Architecture
