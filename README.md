@@ -17,6 +17,29 @@ The project will also include writing documentation and runbooks covering the op
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
 
+### Required deployment:
+
+- Elastic Beantalk
+- S3 bucket
+- RDS database
+- CircleCI
+
+Link API:
+Link Front End:
+
+### Configuration Screenshots:
+
+#### Elastic Beantalk
+
+
+#### S3
+
+![S3](https://github.com/mabothien/store-backend-2/blob/main/docs/images/S3.png?raw=true)
+#### CircleCI
+
+CircleCI Pipeline Architecture
+
+#### AWS Architecture
 
 ### Dependencies
 
