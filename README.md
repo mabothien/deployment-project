@@ -35,6 +35,11 @@ Link Front End:
 #### S3
 
 ![S3](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/S3.PNG?raw=true)
+
+#### RDS database
+
+![S3](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/RDS.PNG?raw=true)
+
 #### CircleCI
 
 CircleCI Pipeline Architecture
