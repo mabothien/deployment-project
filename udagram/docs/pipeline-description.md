@@ -6,8 +6,10 @@ Process successed
 
 ![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CircleCI.PNG?raw=true)
 
-![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circlePass.PNG?raw=true)
+![CircleCI Passed Process](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circlePass.PNG?raw=true)
 
+
+![Enviroment Variables](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circleSetting.PNG?raw=true)
 ## Pipeline Process
 
 1. **Push the updated code to Github main branch**
