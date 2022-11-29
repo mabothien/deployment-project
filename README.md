@@ -44,10 +44,14 @@ Link Front End: http://mybucket127645005679.s3-website-us-east-1.amazonaws.com/
 
 #### CircleCI
 
-CircleCI Pipeline Architecture
+Process successed
 
 ![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CircleCI.PNG?raw=true)
 ![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circlePass.PNG?raw=true)
+
+CircleCI Architecture
+
+![CircleCI Architecture](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CirclePipeline.PNG?raw=true)
 
 #### AWS Architecture
 
