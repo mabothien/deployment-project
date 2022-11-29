@@ -16,56 +16,16 @@ The project will also include writing documentation and runbooks covering the op
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
-
-### Required deployment:
-
-- Elastic Beantalk
-- S3 bucket
-- RDS database
-- CircleCI
+# Links:
 
 Link API: https://udagram-api-dev222.us-east-1.elasticbeanstalk.com/api/v0/feed
 
 Link Front End: http://mybucket127645005679.s3-website-us-east-1.amazonaws.com/
 
-### Configuration Screenshots:
+# Link Documentation:
 
-#### Elastic Beantalk
-
-![EB](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/EB.PNG?raw=true)
-
-#### S3
-
-![S3](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/S3.PNG?raw=true)
-
-#### RDS database
-
-![RDS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/RDS.PNG?raw=true)
-
-#### AWS infrastructure diagram
-
-![AWS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/AWS.png?raw=true)
-
-#### CircleCI
-
-Process successed
-
-![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CircleCI.PNG?raw=true)
-![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circlePass.PNG?raw=true)
-![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circleSetting.PNG?raw=true)
-
-CircleCI Architecture
-
-![CircleCI Architecture](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CirclePipeline.png?raw=true)
-
-#### Application Dependencies
-
-```
-- Node v14.15.1 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
-- angular cli: 8.2.14
-- AWS CLI
-- EB CLI
-```
+- [App-dependencies, and infrastructure and pipeline](/udagram/docs/)
+- [Diagrams](/udagram/docs/diagrams/)
 
 ### Installation
 

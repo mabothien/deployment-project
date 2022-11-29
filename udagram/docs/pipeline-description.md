@@ -1,8 +1,12 @@
 # Pipeline
 
-## Diagram of Pipeline Process
+## Pipeline Process
 
-![CircleCI Diagram](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CirclePipeline.png?raw=true)
+Process successed
+
+![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CircleCI.PNG?raw=true)
+
+![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/circlePass.PNG?raw=true)
 
 ## Pipeline Process
 

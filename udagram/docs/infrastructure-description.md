@@ -1,8 +1,16 @@
 # AWS Infrastructure
 
-## Infrastructure diagram
+#### Elastic Beantalk
 
-![AWS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/AWS.png?raw=true)
+![EB](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/EB.PNG?raw=true)
+
+#### S3
+
+![S3](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/S3.PNG?raw=true)
+
+#### RDS database
+
+![RDS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/RDS.PNG?raw=true)
 
 ## Services:
 
