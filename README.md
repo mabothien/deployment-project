@@ -42,6 +42,10 @@ Link Front End: http://mybucket127645005679.s3-website-us-east-1.amazonaws.com/
 
 ![RDS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/RDS.PNG?raw=true)
 
+#### AWS infrastructure diagram
+
+![AWS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/AWS.png?raw=true)
+
 #### CircleCI
 
 Process successed
