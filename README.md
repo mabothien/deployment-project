@@ -24,13 +24,15 @@ This application is provided to you as an alternative starter project if you do 
 - RDS database
 - CircleCI
 
-Link API:
-Link Front End:
+Link API: https://udagram-api-dev222.us-east-1.elasticbeanstalk.com/api/v0/feed
+
+Link Front End: http://mybucket127645005679.s3-website-us-east-1.amazonaws.com/
 
 ### Configuration Screenshots:
 
 #### Elastic Beantalk
 
+![EB](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/EB.PNG?raw=true)
 
 #### S3
 
@@ -38,11 +40,13 @@ Link Front End:
 
 #### RDS database
 
-![S3](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/RDS.PNG?raw=true)
+![RDS](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/RDS.PNG?raw=true)
 
 #### CircleCI
 
 CircleCI Pipeline Architecture
+
+![CircleCI](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CircleCI.PNG?raw=true)
 
 #### AWS Architecture
 
