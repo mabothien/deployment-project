@@ -51,7 +51,7 @@ Process successed
 
 CircleCI Architecture
 
-![CircleCI Architecture](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CirclePipeline.PNG?raw=true)
+![CircleCI Architecture](https://github.com/mabothien/deployment-project/blob/main/udagram/docs/images/CirclePipeline.png?raw=true)
 
 #### AWS Architecture
 
