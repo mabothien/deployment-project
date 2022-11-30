@@ -49,8 +49,8 @@ jobs:
       - node/install:
           node-version: '14.15'
       - eb/setup
-      - aws-cli/setup
       - checkout
+      - aws-cli/setup
       - run:
           name: Deploy App
           command: |
